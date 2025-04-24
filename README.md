@@ -69,4 +69,56 @@ Our AI-driven platform leverages real-time voice intelligence and MeetStream-pow
   ![WhatsApp Image 2025-04-24 at 12 56 30_0b72cfb7](https://github.com/user-attachments/assets/87a3a9f0-7b43-4447-b65e-6e64a0bc08ae)
 
 
+  
+
+- ### Legal Verdict Agent
+
+  - 🧠 Core Capabilities:
+    - Real-Time Speech-to-Text Processing:
+    - Transcribes court hearings live using streaming STT APIs (e.g., Whisper in real-time)
+    - Continuously updates a dynamic transcript with minimal delay.
+    - Interactive Legal Agent (Live Judge Role):
+    - Users (judges/lawyers) can ask natural language questions during the hearing.
+    - Agent provides answers based on the current live transcript and legal context.
+    - Mimics reasoning and responsiveness of a real judge in-session.
+   
+  ![WhatsApp Image 2025-04-24 at 12 55 43_2fe90f4c](https://github.com/user-attachments/assets/3760f8ef-34c9-4c27-b139-46271efc6f6b)
+
+
+  - 🔎 Evidence Processing Layer (Second Stage):
+    - Evidence Ingestion:
+    - Accepts multiple types of evidence:
+    - Call logs
+    - FIR copies
+    - Photographs
+    - Visual descriptions of the crime scene
+    - Structures and integrates them with the transcript context.
+    - Contextual Linking:
+    - Matches and aligns evidence with spoken content and extracted arguments.
+    - Enhances the legal reasoning process with grounded facts and visuals.
+   
+  ![WhatsApp Image 2025-04-24 at 12 56 18_ca83f9db](https://github.com/user-attachments/assets/51d394e9-317a-4021-a605-c6a9b22d18fa)
+
+
+  - ⚖️ Verdict Generation:
+    - Combines real-time transcripts + external evidence.
+    - Evaluates:
+      - Argument strength
+      - Legal relevance
+      - Constitutional alignment
+      - Supporting evidence integrity
+      - Outputs a Final Verdict Report with:
+      - Winning party
+      - Legal basis
+      - Referenced precedents
+      - Evidence justifications
+        
+![WhatsApp Image 2025-04-24 at 12 58 19_00b2a661](https://github.com/user-attachments/assets/b753a5f6-4266-422a-b93d-25725109a971)
+
+![WhatsApp Image 2025-04-24 at 12 59 07_b1fd6f76](https://github.com/user-attachments/assets/d487070d-9143-493f-a9c8-9a848507c9cd)
+
+
+  
+
+
 
